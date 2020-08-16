@@ -1,0 +1,14 @@
+ANSWERS:
+
+
+1. bb3 & bb4 is used for while loop.In gimple if else only gotos are used
+   whereas in the while loop basic blocks are also used.
+
+
+
+2. bb5,bb6,bb7,bb8,bb9,bb10 are basic blocks used for nested for-loop.
+   initialisers:bb5,bb6
+   conditions:bb8,bb10
+   increments:bb9,bb7
+   
+   

@@ -1,0 +1,11 @@
+ANSWERS:
+
+
+1. If blocks are converted to conditional gotos to .
+    Unconditional gotos are execute by themselves.Conditional
+    gotos always have two labels.
+
+
+2.  Yes it's a little bit easier to see the cgf representation,
+    but it has more number of lines.
+ 

@@ -1,0 +1,5 @@
+ANSWERS:
+
+
+1. The funtion will give return value 14,as a value is initialized to a is 10 and loop 
+   executes four times incrementing the value each time in a.

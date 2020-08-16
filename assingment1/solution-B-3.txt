@@ -1,0 +1,5 @@
+ANSWERS:
+
+
+1. The a variable can take values from 4 to 99.
+    No the condition can't be true

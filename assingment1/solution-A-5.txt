@@ -1,0 +1,14 @@
+ANSWERS:
+
+1. Yes.Some variables means specifically here c have suffix (D) may be because 
+   it is not assigned any value previously or not defined before and
+   directly used in if statement.
+
+
+2. Syntax for PHI statement is PHI<x(i),y(j),...>
+   where x is variable and i is basic block number.
+
+
+
+3. It will merge more than two versions of a variable when more basicblocks 
+   are there and it will happen in nested loops or switch statements. 

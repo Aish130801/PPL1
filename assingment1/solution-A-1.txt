@@ -1,0 +1,25 @@
+
+ANSWERS:
+
+
+1.    int a;
+      int b;
+      int c;
+      int p;
+      int q;
+      double r;
+      The multiple variables declared and initalized on same line are split 
+      and declared and initialized on seperate lines.
+      The global variable z is converted to local variable. 
+     
+2.    Each operation is seperated on different line.
+      Temporary variables are introduced for a  intermediate operation.
+
+3.    Floats and doubles are represented using the scientific notations.
+    
+
+4.    Reads/writes to global variable z are performed by converting it to 
+      local variable.A temporary is required for z=z+1 because it is a 
+      mathematical operation whereas q=z is just a value assigned.
+               
+ 

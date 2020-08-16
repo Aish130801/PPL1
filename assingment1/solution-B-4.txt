@@ -1,0 +1,13 @@
+ANSWERS:
+
+1.In original code computed 2 times and in fre pass only once. 
+
+
+
+2. we can check in optimized file coz it is final file after 
+   optimization.THe extra temporary variables are reduced in optimized file.
+
+
+
+3.we have to put return b because we are calculating value of b.
+  If the return b is changed to returned 0, the program will return nothing.

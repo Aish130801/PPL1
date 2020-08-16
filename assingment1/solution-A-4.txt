@@ -1,0 +1,14 @@
+ANSWERS:
+
+
+1. Arrays are declared in a single statement.Each elemnt of an array is
+   initialized on seperate lines from index 0 to length of array.
+
+
+
+2. The a[i] and b[i] are are two varibles and they can't be used at a time
+    in a operation so they are broken down using temporary variables.
+
+
+
+3.
